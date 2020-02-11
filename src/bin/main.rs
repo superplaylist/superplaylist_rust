@@ -1,5 +1,6 @@
 extern crate clap;
 extern crate env_logger;
+extern crate id3;
 extern crate log;
 extern crate serde;
 extern crate serde_json;
